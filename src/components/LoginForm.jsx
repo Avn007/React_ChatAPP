@@ -39,11 +39,11 @@ const LoginForm = () => {
                     </div>
                     <h2 className="error" style={{color: 'red'}}>{error}</h2>
                 </form>
-                {/* <div align="center">
+                <div align="center">
                     <Link to='/signup'>
                         <span>Go Sign Up</span>
                     </Link>
-                </div> */}
+                </div>
             </div>
         </div>
     )
